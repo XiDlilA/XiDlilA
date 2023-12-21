@@ -2,9 +2,10 @@
 
 <div align="center">
 <p align="center">
+<img src="imgs/pikaqiu.jpeg" alt="tip">
+</p>
     <img src="https://badgen.net/badge/坚持/输入/orange?icon=bitcoin-lightning" alt="tip">
     <img src="https://badgen.net/badge/持续/输出/green?icon=github" alt="tip">
-</p>
     <img src="https://github-stats.ubrong.com/api?username=XiDlilA&show_icons=true&theme=tokyonight" alt="GitHub.账户信息统计">
     <img src="https://github-stats.ubrong.com/api/top-langs/?username=XiDlilA&layout=compact&theme=tokyonight" alt="GitHub账户最常用语言">
 </div>
